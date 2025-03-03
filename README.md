@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Apsarcodes
-- 👀 I’m interested in Backend develoment (web) 
-- 🌱 I’m currently learning ... Backend development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Python and AI/ML
+- 🌱 I’m currently learning ... Python and data science
+  
 
 <!---
 Apsarcodes/Apsarcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
